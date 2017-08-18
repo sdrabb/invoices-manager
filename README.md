@@ -7,6 +7,10 @@ A Java back-end for an invoices manager built with **Java EE 7**.
 ## Requirements
 The diagram files are built using [draw.io](https://www.draw.io/) instead the entire **back-end** inside the [swam-cdi folder](https://github.com/sdrabb/invoices-manager/tree/master/swam-cdi) is built using **Java EE 7** in particular with **CDI,JPA**.
 
+* [Hibernate](http://hibernate.org/)
+* [wildfly](http://wildfly.org/) 
+
+
 ## Structure
 * [Architecture](https://github.com/sdrabb/invoices-manager/tree/master/Architecture) - the html file that describes the architecture of the program.
 * [Businness Logic](https://github.com/sdrabb/invoices-manager/tree/master/Business%20Logic) - contains an html file that describes the **Business Logic** of the program.
